@@ -1,2 +1,3 @@
 # Primeiros-passos-com-Git-e-GitHub
-Treinamento cm curso em video
+Treinamento  curso em video
+Material do **git e Git e GitHub**, disponivel gratuitamente no canal do *youtube*.
